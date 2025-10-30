@@ -422,3 +422,8 @@ Implementa un pequeño sistema de empleados:
 ---
 
 ### 📚 Recursos Adicionales
+
+- Effective Java — Joshua Bloch
+- Clean Code — Robert C. Martin
+- Java: The Complete Reference — Herbert Schildt
+- [Documentación oficial de Java SE](https://docs.oracle.com/en/java/)
