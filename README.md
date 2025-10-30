@@ -32,6 +32,6 @@ Consulta mi plan de aprendizaje completo en [ROADMAP.md](./ROADMAP.md)
 
 ---
 
-> 🧑‍💻 Autor: Ricky  
+> 🧑‍💻 Autor: Ricardo Rivero
 > Ingeniero Informático | Backend Java Developer en formación
 
